@@ -1,0 +1,123 @@
+﻿{"Oturma Grupları":[
+	{
+		"id": 1,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk1",
+		"fiyat": 7500
+	},{
+		"id": 2,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk2",
+		"fiyat": 7850
+	},{
+		"id": 3,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk3",
+		"fiyat": 6300
+	},{
+		"id": 4,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk4",
+		"fiyat": 8400
+	},{
+		"id": 5,
+		"group": "Köşe Takımları",
+		"name": "Köşe1",
+		"fiyat": 4400
+	},{
+		"id": 6,
+		"group": "Köşe Takımları",
+		"name": "Köşe2",
+		"fiyat": 3700
+	},{
+		"id": 7,
+		"group": "Köşe Takımları",
+		"name": "Köşe3",
+		"fiyat": 5000
+	},{
+		"id": 8,
+		"group": "Köşe Takımları",
+		"name": "Köşe4",
+		"fiyat": 4800
+	}
+	]
+},{"Yemek Odaları":[
+	{
+		"id": 9,
+		"group": "Yemek Odası",
+		"name": "Yemek1",
+		"fiyat": 3000
+	},{
+		"id": 10,
+		"group": "Yemek Odası",
+		"name": "Yemek2",
+		"fiyat": 2800
+	},{
+		"id": 11,
+		"group": "Yemek Odası",
+		"name": "Yemek3",
+		"fiyat": 3199
+	},{
+		"id": 12,
+		"group": "Masa",
+		"name": "Masa1",
+		"fiyat": 1200
+	},{
+		"id": 13,
+		"group": "Sandalye",
+		"name": "Sandalye1",
+		"fiyat": 120
+	},{
+		"id": 14,
+		"group": "Sandalye",
+		"name": "Sandalye2",
+		"fiyat": 135
+	}
+	]
+},{"Yatak Odaları":[
+	{
+		"id": 15,
+		"group": "Yatak Odası",
+		"name": "Yatak1",
+		"fiyat": 3000
+	},{
+		"id": 16,
+		"group": "Yatak Odası",
+		"name": "Yatak2",
+		"fiyat": 2800
+	},{
+		"id": 17,
+		"group": "Yatak Odası",
+		"name": "Yatak3",
+		"fiyat": 3199
+	},{
+		"id": 18,
+		"group": "Yatak Odası",
+		"name": "Yatak4",
+		"fiyat": 1200
+	}
+	]
+},{"Genç ve Bebek Odaları":[
+	{
+		"id": 19,
+		"group": "Genç Odası",
+		"name": "Genç1",
+		"fiyat": 5900
+	},{
+		"id": 20,
+		"group": "Genç Odası",
+		"name": "Genç2",
+		"fiyat": 4800
+	},{
+		"id": 21,
+		"group": "Bebek Odası",
+		"name": "Bebek1",
+		"fiyat": 4799
+	},{
+		"id": 22,
+		"group": "Bebek Odası",
+		"name": "Bebek2",
+		"fiyat": 3900
+	}
+	]
+}
